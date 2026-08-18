@@ -1,11 +1,11 @@
 <h1 align="center">Amr Tamer Hussein</h1>
 
 <p align="center">
-  <b>Agentic AI Developer</b> · LLMs · Machine Learning · NLP
+  <b>AI &amp; Machine Learning Developer</b> · Agentic AI · Data Science · NLP
 </p>
 
 <p align="center">
-  <i>I build AI you can actually use — tool-calling agents, RAG systems, and data-driven apps.</i>
+  <i>From data to models to real applications — I build AI that people can actually use.</i>
 </p>
 
 <p align="center">
@@ -16,18 +16,14 @@
 
 <br>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```yaml
-name:      Amr Tamer Hussein
-role:      Agentic AI Developer
-degree:    BSc Artificial Intelligence
-location:  New Cairo, Egypt
-focus:     [ Agentic AI, LLMs, RAG, Machine Learning, NLP ]
-building:  tool-calling agents & retrieval-augmented systems
-skills:    LangChain · Prompt Engineering · Tool Calling · API Integration
-ask_me:    anything about LLMs, RAG, agents, or Python
-```
+I'm an **Artificial Intelligence graduate** from the Egyptian Russian University, working across the full AI stack — from **data analysis and machine learning** to **deep learning, LLMs, and agentic AI**. I like taking a problem end to end: exploring and cleaning the data, training and evaluating models, and shipping them as applications people can use.
+
+- 📊 Comfortable across the data workflow — cleaning, analysis, visualization, and ML modeling
+- 🧠 Solid deep learning foundation (CNNs, RNNs) with TensorFlow, Keras, and PyTorch
+- 🤖 Building tool-calling agents and RAG systems with LangChain & LangGraph
+- 💬 Ask me about machine learning, data science, LLMs, or Python
 
 <br>
 
@@ -39,20 +35,25 @@ ask_me:    anything about LLMs, RAG, agents, or Python
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / LLM**
+**Machine Learning & Deep Learning**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Data & NLP**
+**Data Analysis & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**Generative AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 
 **Web & Tools**
@@ -127,5 +128,5 @@ ask_me:    anything about LLMs, RAG, agents, or Python
 <br>
 
 <p align="center">
-  <i>Open to Agentic AI / ML roles and collaboration — feel free to reach out.</i>
+  <i>Open to AI / ML &amp; Data Science roles and collaboration — feel free to reach out.</i>
 </p>
