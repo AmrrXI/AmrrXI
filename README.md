@@ -1,3 +1,8 @@
+Yes — I’d remove those three bottom buttons completely. I also kept the existing **typing animation + animated header/footer**, and added a subtle **animated “Currently building” line** so it feels more dynamic without becoming messy.
+
+Here’s the full updated README, ready to paste:
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0B1020,55:7C5CFF,100:22D3EE&text=Amr%20Tamer%20Hussein&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Agentic%20AI%20Developer%20%C2%B7%20LLMs%20%C2%B7%20Machine%20Learning&descSize=17&descAlignY=64&animation=fadeIn" width="100%" alt="Amr Tamer Hussein — Agentic AI Developer" />
@@ -15,7 +20,8 @@
 <a href="https://github.com/AmrrXI">
   <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/New%20Cairo,%20Egypt-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AmrrXI&label=Profile%20views&color=7C5CFF&style=flat-square" alt="Profile views" />
 
@@ -29,13 +35,21 @@ AI graduate from the **Egyptian Russian University**, now focused on building **
 
 My background also includes classic machine learning, deep learning, NLP, data analysis, and building AI applications from the ground up.
 
-* 🤖 **Agentic AI & LLMs** — LangChain, LangGraph, tool calling, RAG, structured outputs
-* 🧠 **Machine Learning** — scikit-learn, TensorFlow, Keras, PyTorch
-* 📊 **Data** — Python, Pandas, NumPy, SQL, visualization and modelling
-* 🚀 **AI Applications** — Streamlit, APIs, automation, error handling and deployment
-* 💬 Ask me about **agent architecture, RAG pipelines, tool calling, or LLM applications**
+- 🤖 **Agentic AI & LLMs** — LangChain, LangGraph, tool calling, RAG, structured outputs
+- 🧠 **Machine Learning** — scikit-learn, TensorFlow, Keras, PyTorch
+- 📊 **Data** — Python, Pandas, NumPy, SQL, visualization and modelling
+- 🚀 **AI Applications** — Streamlit, APIs, automation, error handling and deployment
+- 💬 Ask me about **agent architecture, RAG pipelines, tool calling, or LLM applications**
 
 <sub>🎯 Open to **AI / ML**, **Agentic AI**, and **Data Science** opportunities — remote or Cairo-based.</sub>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Currently+building+agentic+AI+systems;Exploring+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Workflows;Turning+ideas+into+working+AI+applications" alt="Currently building" />
+
+</div>
 
 ---
 
@@ -49,7 +63,7 @@ My background also includes classic machine learning, deep learning, NLP, data a
 
 Building agents that can **reason, choose tools, execute actions, and recover from errors**.
 
-`LangGraph` · `LangChain`
+`LangGraph` · `LangChain`  
 `Tool Calling` · `Pydantic`
 
 </td>
@@ -60,7 +74,7 @@ Building agents that can **reason, choose tools, execute actions, and recover fr
 
 Turning LLMs into useful applications through **RAG, memory, structured outputs, and API integrations**.
 
-`RAG` · `FAISS`
+`RAG` · `FAISS`  
 `Prompt Engineering` · `Groq`
 
 </td>
@@ -71,7 +85,7 @@ Turning LLMs into useful applications through **RAG, memory, structured outputs,
 
 Taking projects from an idea to a **working application** that people can actually use.
 
-`Python` · `Streamlit`
+`Python` · `Streamlit`  
 `APIs` · `Git` · `Jira`
 
 </td>
@@ -84,6 +98,7 @@ Taking projects from an idea to a **working application** that people can actual
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📝 [Multi-Agent Meeting Assistant](https://github.com/AmrrXI/multi-agent-productivity-assistant)
@@ -115,9 +130,11 @@ A rule-based fallback catches cases where the model is uncertain, while Pydantic
 <img src="https://img.shields.io/badge/Groq-7C5CFF?style=flat-square" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚽ [Football Knowledge Assistant](https://github.com/AmrrXI/Football-Knowledge-Assistant)
@@ -145,9 +162,11 @@ An LLM pipeline that drafts professional replies and handles the rest — format
 <img src="https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=white" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📄 [HireHub — Applicant Tracking System](https://github.com/AmrrXI/ATS-using-Streamlit)
@@ -177,6 +196,7 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 <img src="https://img.shields.io/badge/scikit--learn-F59E0B?style=flat-square&logo=scikitlearn&logoColor=white" />
 
 </td>
+
 </tr>
 </table>
 
@@ -191,6 +211,7 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 </div>
 
 <table>
+
 <tr>
 <td><b>Agentic AI & LLMs</b></td>
 <td>
@@ -252,6 +273,7 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -260,14 +282,14 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 
 Most recent first — with the latest programs focused on **AI agents, automation, and modern development workflows**.
 
-|              | Programme                   | Where                               | Focus                                                                       |
-| :----------- | :-------------------------- | :---------------------------------- | :-------------------------------------------------------------------------- |
-| **Aug 2026** | AI & Technology             | iCareer                             | AI-assisted workflows, Claude Code, task automation, Agile/Scrum, Jira, Git |
-| **Jul 2026** | AI Agent Development        | Digital Hub × Orange Digital Center | LLMs, LangChain, prompt engineering, agents, tool calling, API integration  |
-| **Sep 2024** | AI Practitioner Certificate | IBM                                 | Hands-on ML, NLP and deep learning via Watson Studio                        |
-| **Mar 2024** | ML Methods & Tools          | IBM                                 | Key algorithms applied to real-world datasets                               |
-| **Mar 2024** | Fundamentals of AI          | IBM                                 | Core AI concepts and principles                                             |
-| **Sep 2023** | Artificial Intelligence     | ITI × Arab Academy                  | AI basics, ML, DL, data science, Python                                     |
+| | Programme | Where | Focus |
+|:--|:--|:--|:--|
+| **Aug 2026** | AI & Technology | iCareer | AI-assisted workflows, Claude Code, task automation, Agile/Scrum, Jira, Git |
+| **Jul 2026** | AI Agent Development | Digital Hub × Orange Digital Center | LLMs, LangChain, prompt engineering, agents, tool calling, API integration |
+| **Sep 2024** | AI Practitioner Certificate | IBM | Hands-on ML, NLP and deep learning via Watson Studio |
+| **Mar 2024** | ML Methods & Tools | IBM | Key algorithms applied to real-world datasets |
+| **Mar 2024** | Fundamentals of AI | IBM | Core AI concepts and principles |
+| **Sep 2023** | Artificial Intelligence | ITI × Arab Academy | AI basics, ML, DL, data science, Python |
 
 <br>
 
@@ -291,38 +313,21 @@ Most recent first — with the latest programs focused on **AI agents, automatio
 
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=AmrrXI&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies" />
+
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
 <div align="center">
 
-### Let's build something useful with AI.
+### 🤖 Building AI that can think, act, and deliver.
 
-I'm looking for opportunities in **Agentic AI, AI/ML, and Data Science** — and I'm always interested in discussing AI architectures, LLM applications, and automation.
-
-<br>
-
-<a href="mailto:amrrtamerr@hotmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20email-F59E0B?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Amr" />
-</a>
-
-<a href="https://www.linkedin.com/in/amr-tamer-9786a824">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7C5CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/AmrrXI">
-  <img src="https://img.shields.io/badge/Explore%20my%20GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<sub>Agentic AI · LLMs · RAG · Machine Learning · AI Applications</sub>
 
 <br><br>
 
-<sub><b>[amrrtamerr@hotmail.com](mailto:amrrtamerr@hotmail.com)</b> · +20 128 813 4755 · New Cairo, Egypt</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:22D3EE,45:7C5CFF,100:0B1020&reversal=true" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:22D3EE,45:7C5CFF,100:0B1020&reversal=true&animation=fadeIn" width="100%" alt="" />
 
 </div>
+```
