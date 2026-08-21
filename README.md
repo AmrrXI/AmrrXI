@@ -78,43 +78,6 @@ Taking projects from an idea to a **working application** that people can actual
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### From Prompt → Reasoning → Tools → Result
-
-```text
-        ┌──────────────┐
-        │    USER      │
-        │   REQUEST    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     LLM      │
-        │   REASONING  │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │  TOOL / RAG  │
-        │   SELECTION  │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   EXECUTE    │
-        │   + VERIFY   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   FINAL      │
-        │    RESULT    │
-        └──────────────┘
-```
-
-<sub>Building AI systems that do more than generate text — they <b>reason, act, and deliver results.</b></sub>
-
-</div>
-
 ---
 
 ## 🚀 Projects
@@ -310,7 +273,7 @@ Most recent first — with the latest programs focused on **AI agents, automatio
 
 🎓 **BSc Artificial Intelligence** — Egyptian Russian University, 2020–2024
 
-🗣️ Arabic <sub>native</sub> · English <sub>upper-intermediate</sub> · Russian <sub>beginner</sub>
+**Languages:** 🇪🇬 Arabic (Native) · 🇬🇧 English (Upper-Intermediate) · 🇷🇺 Russian (Beginner)
 
 ---
 
