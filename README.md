@@ -1,8 +1,4 @@
-Yes — I’d remove those three bottom buttons completely. I also kept the existing **typing animation + animated header/footer**, and added a subtle **animated “Currently building” line** so it feels more dynamic without becoming messy.
 
-Here’s the full updated README, ready to paste:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0B1020,55:7C5CFF,100:22D3EE&text=Amr%20Tamer%20Hussein&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Agentic%20AI%20Developer%20%C2%B7%20LLMs%20%C2%B7%20Machine%20Learning&descSize=17&descAlignY=64&animation=fadeIn" width="100%" alt="Amr Tamer Hussein — Agentic AI Developer" />
