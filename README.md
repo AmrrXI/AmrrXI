@@ -291,8 +291,6 @@ Most recent first — with the latest programs focused on **AI agents, automatio
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmrrXI&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies" />
-
 </div>
 
 ---
