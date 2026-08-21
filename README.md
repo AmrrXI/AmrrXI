@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0B1020,55:7C5CFF,100:22D3EE&text=Amr%20Tamer%20Hussein&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Agentic%20AI%20Developer%20%C2%B7%20LLMs%20%C2%B7%20Machine%20Learning&descSize=17&descAlignY=64&animation=fadeIn" width="100%" alt="Amr Tamer Hussein — Agentic AI Developer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0B1020,55:7C5CFF,100:22D3EE&text=Amr%20Tamer%20Hussein&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Agentic%20AI%20Developer%20%C2%B7%20LLMs%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Science&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Amr Tamer Hussein — Agentic AI Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=780&height=55&lines=I+build+AI+agents+that+plan%2C+pick+tools%2C+and+finish+the+job;LangGraph+%C2%B7+RAG+%C2%B7+Tool+calling+%C2%B7+Whisper+%C2%B7+Streamlit;From+raw+data+to+a+deployed+app+%E2%80%94+end+to+end" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=820&height=55&lines=I+build+AI+agents+that+plan%2C+pick+tools%2C+and+finish+the+job;LangGraph+%C2%B7+RAG+%C2%B7+Tool+calling+%C2%B7+Whisper+%C2%B7+Streamlit;Turning+raw+data+into+insights+and+AI-powered+applications;From+data+to+deployed+AI+%E2%80%94+end+to+end" alt="What I do" />
 
 <br>
 
@@ -27,23 +26,24 @@
 
 ## 👋 About
 
-AI graduate from the **Egyptian Russian University**, now focused on building **agentic AI systems** — LLM-powered applications that can understand a request, reason about what needs to happen, choose the right tools, execute actions, and return a useful result.
+AI graduate from the **Egyptian Russian University**, focused on building **agentic AI systems** — LLM-powered applications that can understand a request, reason about what needs to happen, choose the right tools, execute actions, and return a useful result.
 
-My background also includes classic machine learning, deep learning, NLP, data analysis, and building AI applications from the ground up.
+My background also includes **machine learning, deep learning, NLP, data science, data visualization, and AI application development**.
 
-- 🤖 **Agentic AI & LLMs** — LangChain, LangGraph, tool calling, RAG, structured outputs
-- 🧠 **Machine Learning** — scikit-learn, TensorFlow, Keras, PyTorch
-- 📊 **Data** — Python, Pandas, NumPy, SQL, visualization and modelling
-- 🚀 **AI Applications** — Streamlit, APIs, automation, error handling and deployment
-- 💬 Ask me about **agent architecture, RAG pipelines, tool calling, or LLM applications**
+* 🤖 **Agentic AI & LLMs** — LangChain, LangGraph, tool calling, RAG, structured outputs
+* 🧠 **Machine Learning** — scikit-learn, TensorFlow, Keras, PyTorch
+* 📊 **Data Science & Analytics** — Pandas, NumPy, SQL, Excel, Power BI, EDA, data cleaning and visualization
+* 📈 **Data Visualization** — Matplotlib, Seaborn, dashboards and analytical reporting
+* 🚀 **AI Applications** — Streamlit, APIs, automation, error handling and deployment
+* 💬 Ask me about **agent architecture, RAG pipelines, tool calling, ML, or data analysis**
 
-<sub>🎯 Open to **AI / ML**, **Agentic AI**, and **Data Science** opportunities — remote or Cairo-based.</sub>
+<sub>🎯 Open to **AI / ML**, **Agentic AI**, **Data Science**, and **Data Analytics** opportunities — remote or Cairo-based.</sub>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Currently+building+agentic+AI+systems;Exploring+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Workflows;Turning+ideas+into+working+AI+applications" alt="Currently building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=720&height=35&lines=Currently+building+agentic+AI+systems;Exploring+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Workflows;Turning+raw+data+into+clear+insights;Building+AI+applications+from+idea+to+deployment" alt="Currently building" />
 
 </div>
 
@@ -53,40 +53,179 @@ My background also includes classic machine learning, deep learning, NLP, data a
 
 <table>
 <tr>
-<td width="33%" align="center">
+
+<td width="25%" align="center">
 
 ### 🤖 Agentic AI
 
 Building agents that can **reason, choose tools, execute actions, and recover from errors**.
 
-`LangGraph` · `LangChain`  
+`LangGraph` · `LangChain`
 `Tool Calling` · `Pydantic`
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🧠 LLM Applications
 
 Turning LLMs into useful applications through **RAG, memory, structured outputs, and API integrations**.
 
-`RAG` · `FAISS`  
-`Prompt Engineering` · `Groq`
+`RAG` · `FAISS`
+`Groq` · `Gemini`
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 📊 Data Science
+
+Turning raw datasets into **clean, visual, and actionable insights**.
+
+`Pandas` · `NumPy`
+`SQL` · `Power BI` · `Excel`
+
+</td>
+
+<td width="25%" align="center">
 
 ### 🚀 AI Products
 
 Taking projects from an idea to a **working application** that people can actually use.
 
-`Python` · `Streamlit`  
+`Python` · `Streamlit`
 `APIs` · `Git` · `Jira`
 
 </td>
+
 </tr>
 </table>
+
+---
+
+## 📊 Data Science & Visualization
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=760&height=45&lines=Turning+raw+data+into+clear+insights;Clean+%E2%86%92+Explore+%E2%86%92+Analyze+%E2%86%92+Visualize;Finding+patterns%2C+trends%2C+and+actionable+insights" alt="Data Science focus" />
+
+<br>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🧹 Data Preparation
+
+Cleaning, transforming, and preparing datasets for analysis and modelling.
+
+`Pandas` · `NumPy`
+`Data Cleaning` · `Preprocessing`
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔎 Exploratory Analysis
+
+Finding patterns, trends, relationships, and anomalies hidden inside data.
+
+`EDA` · `Statistics`
+`Feature Engineering`
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈 Visualization
+
+Making complex data easier to understand through clear visualizations and dashboards.
+
+`Matplotlib` · `Seaborn`
+`Power BI` · `Excel`
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧠 Modelling
+
+Using machine learning to turn analysed data into predictive solutions.
+
+`scikit-learn` · `TensorFlow`
+`PyTorch` · `ML`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔄 My Data Workflow
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0B1020,50:F59E0B,100:22D3EE&text=RAW%20DATA%20%E2%86%92%20CLEAN%20%E2%86%92%20EXPLORE%20%E2%86%92%20VISUALIZE%20%E2%86%92%20MODEL%20%E2%86%92%20INSIGHT&fontSize=17&fontColor=FFFFFF&animation=fadeIn" width="95%" alt="Data workflow" />
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+📥<br>
+<b>Collect</b><br>
+<sub>Load & inspect</sub>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧹<br>
+<b>Clean</b><br>
+<sub>Prepare data</sub>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🔍<br>
+<b>Explore</b><br>
+<sub>Find patterns</sub>
+</td>
+
+<td>→</td>
+
+<td align="center">
+📊<br>
+<b>Visualize</b><br>
+<sub>Charts & dashboards</sub>
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧠<br>
+<b>Model</b><br>
+<sub>ML & prediction</sub>
+</td>
+
+<td>→</td>
+
+<td align="center">
+💡<br>
+<b>Decide</b><br>
+<sub>Actionable insights</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -202,7 +341,7 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,postgres,tensorflow,pytorch,sklearn,anaconda,git,github,html,css&theme=dark&perline=11" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=py,java,postgres,tensorflow,pytorch,sklearn,anaconda,jupyter,git,github,html,css&theme=dark&perline=12" alt="Core stack" />
 
 </div>
 
@@ -227,6 +366,35 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 </tr>
 
 <tr>
+<td><b>Data Science & Analytics</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-F59E0B?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-F59E0B?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-F59E0B?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>Data Visualization</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Matplotlib-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Seaborn-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-22D3EE?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel%20Dashboards-22D3EE?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Analytical%20Reporting-22D3EE?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
 <td><b>ML & Deep Learning</b></td>
 <td>
 
@@ -237,20 +405,6 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 <img src="https://img.shields.io/badge/CNNs-22D3EE?style=flat-square" />
 <img src="https://img.shields.io/badge/RNNs-22D3EE?style=flat-square" />
 <img src="https://img.shields.io/badge/NLTK-22D3EE?style=flat-square" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Data & Analysis</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-F59E0B?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-F59E0B?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-F59E0B?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F59E0B?style=flat-square&logo=jupyter&logoColor=white" />
 
 </td>
 </tr>
@@ -276,16 +430,16 @@ Sentiment and emotion classification over text, including preprocessing, tokeniz
 
 ## 🎓 Training & Credentials
 
-Most recent first — with the latest programs focused on **AI agents, automation, and modern development workflows**.
+Most recent first — with the latest programs focused on **AI agents, automation, data, and modern development workflows**.
 
-| | Programme | Where | Focus |
-|:--|:--|:--|:--|
-| **Aug 2026** | AI & Technology | iCareer | AI-assisted workflows, Claude Code, task automation, Agile/Scrum, Jira, Git |
-| **Jul 2026** | AI Agent Development | Digital Hub × Orange Digital Center | LLMs, LangChain, prompt engineering, agents, tool calling, API integration |
-| **Sep 2024** | AI Practitioner Certificate | IBM | Hands-on ML, NLP and deep learning via Watson Studio |
-| **Mar 2024** | ML Methods & Tools | IBM | Key algorithms applied to real-world datasets |
-| **Mar 2024** | Fundamentals of AI | IBM | Core AI concepts and principles |
-| **Sep 2023** | Artificial Intelligence | ITI × Arab Academy | AI basics, ML, DL, data science, Python |
+|              | Programme                   | Where                               | Focus                                                                       |
+| :----------- | :-------------------------- | :---------------------------------- | :-------------------------------------------------------------------------- |
+| **Aug 2026** | AI & Technology             | iCareer                             | AI-assisted workflows, Claude Code, task automation, Agile/Scrum, Jira, Git |
+| **Jul 2026** | AI Agent Development        | Digital Hub × Orange Digital Center | LLMs, LangChain, prompt engineering, agents, tool calling, API integration  |
+| **Sep 2024** | AI Practitioner Certificate | IBM                                 | Hands-on ML, NLP and deep learning via Watson Studio                        |
+| **Mar 2024** | ML Methods & Tools          | IBM                                 | Key algorithms applied to real-world datasets                               |
+| **Mar 2024** | Fundamentals of AI          | IBM                                 | Core AI concepts and principles                                             |
+| **Sep 2023** | Artificial Intelligence     | ITI × Arab Academy                  | AI basics, ML, DL, data science, Python                                     |
 
 <br>
 
@@ -308,19 +462,23 @@ Most recent first — with the latest programs focused on **AI agents, automatio
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmrrXI&bg_color=00000000&color=7C5CFF&line=22D3EE&point=F59E0B&area=true&area_color=7C5CFF&hide_border=true&custom_title=Commit%20activity" alt="Activity graph" />
 
 <br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmrrXI&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🤖 Building AI that can think, act, and deliver.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=850&height=50&lines=Building+AI+that+can+think%2C+act%2C+and+deliver.;Turning+data+into+insights.;Turning+insights+into+AI-powered+applications.;Agentic+AI+%C2%B7+Data+Science+%C2%B7+Machine+Learning" alt="Closing statement" />
 
-<sub>Agentic AI · LLMs · RAG · Machine Learning · AI Applications</sub>
+<br>
+
+<sub>🤖 Agentic AI · 📊 Data Science · 🧠 Machine Learning · 📈 Data Visualization</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:22D3EE,45:7C5CFF,100:0B1020&reversal=true&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:F59E0B,45:7C5CFF,100:22D3EE&reversal=true&animation=fadeIn" width="100%" alt="" />
 
 </div>
-```
