@@ -308,9 +308,6 @@ Most recent first — with the latest programs focused on **AI agents, automatio
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmrrXI&bg_color=00000000&color=7C5CFF&line=22D3EE&point=F59E0B&area=true&area_color=7C5CFF&hide_border=true&custom_title=Commit%20activity" alt="Activity graph" />
 
 <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmrrXI&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies" />
-
 </div>
 
 ---
